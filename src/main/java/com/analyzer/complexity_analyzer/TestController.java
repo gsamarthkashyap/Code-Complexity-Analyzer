@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.Map;
 
 @RestController
-@CrossOrigin(origins = "https://code-complexity-analyzer-mf1e.onrender.com")
+@CrossOrigin(origins = "https://code-complexity-analyzer-frontend.vercel.app/")
 @RequestMapping("/api")
 
 public class TestController {
